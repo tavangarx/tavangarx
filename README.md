@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Building the next generation of Venture Capital tools. 
+- 💬 Ask me about alternative investment, innovation, and startups. 
+- 📫 Learn more about my work at tavangarx.com
+
 <!--
 **tavangarx/tavangarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
